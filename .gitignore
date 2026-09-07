@@ -1,0 +1,22 @@
+﻿# Hasil ekstraksi (berisi seed phrase sensitif)
+hasil.txt
+HASIL_BACKUP_SEED_PHRASE_WALLET.txt
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp files
+*.tmp
+*.log
+*.db
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
