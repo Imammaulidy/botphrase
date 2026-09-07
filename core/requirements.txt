@@ -1,0 +1,3 @@
+# Modul pendukung BOT EXTRACT PHRASE
+# Bot ini menggunakan modul bawaan Python (os, sys, re, json, subprocess, xml, pathlib, typing, datetime)
+# File ini otomatis dicek oleh run.bat dan run.sh untuk memastikan dependensi selalu terpenuhi.
